@@ -3,13 +3,16 @@ body {
   text-align: center;
   color: white;
 }
-
+html{
+  height: 100%;
+  width: 100%;
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-size: 400px;
-  border-radius: 30px;
-  border: 1px solid rgb(255,245,227);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5i1rd-sJAzidCyUFG0T7fdfxcpjrEP9p2Q&s");
+  background-size: 400px 400px;
+  border-radius: 40px;
+  border: 4px solid
+    rgb(18,83,169);
 }
 
 .main{
